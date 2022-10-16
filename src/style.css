@@ -4,7 +4,7 @@
   border-Radius: 360px;
   margin-Left: 80px;
   border-Width: 30px;
-  border-Color: rgba(222, 130, 235, 0.911);
+  border-Color: rgba(235, 130, 219, 0.911);
 }
 
 html {
@@ -361,7 +361,7 @@ button:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: #68187a;
+  background: #fa5cabef;
   transition: 0.5s;
   transform: scale(0.9);
   z-index: -1;
@@ -369,13 +369,11 @@ button:focus {
 
 .home-social-icons:hover::before {
   transform: scale(1.1);
-  box-shadow: 0 0 15px #801f95;
 }
 
 .home-social-icons:hover {
   color: #87209e;
   box-shadow: 0 0 5px #87209e;
-  text-shadow: 0 0 2px #87209e;
 }
 
 .social-icons {
@@ -385,7 +383,7 @@ button:focus {
 }
 
 .icon-colour {
-  color: #700c86 !important;
+  color: #fa5cabef !important;
 }
 
 /* --------- */
@@ -429,7 +427,7 @@ button:focus {
 }
 
 .blockquote-footer {
-  color: #a588c0 !important;
+  color: #8b88c0 !important;
 }
 /* --------- */
 /* Projects */
@@ -470,7 +468,7 @@ button:focus {
 
 .blog-card-view {
   background-color: transparent !important;
-  box-shadow: 0 3px 3px 2px rgba(145, 77, 161, 0.459) !important;
+  box-shadow: 0 3px 3px 2px rgba(85, 77, 161, 0.459) !important;
   color: white !important;
   transition: all 0.5s ease 0s !important;
   height: 100% !important;
@@ -488,7 +486,7 @@ button:focus {
 .blog-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
-  box-shadow: 0 3px 3px 5px rgba(155, 88, 173, 0.65) !important;
+  box-shadow: 0 3px 3px 5px rgba(88, 88, 173, 0.65) !important;
 }
 
 .card-img-top {
@@ -505,14 +503,14 @@ button:focus {
 
 .btn-primary {
   color: #fff !important;
-  background-color: #623686 !important;
-  border-color: #623686 !important;
+  background-color: #f36ad7 !important;
+  border-color: #f36ad7 !important;
 }
 
 .btn-primary:hover {
   color: #fff !important;
-  background-color: #6d20c5d7 !important;
-  border-color: #6d20c5d7 !important;
+  background-color: #f36ad7 !important;
+  border-color: #f36ad7 !important;
 }
 .btn:focus {
   outline: none !important;
@@ -643,14 +641,14 @@ button:focus {
 .resume .resume-item {
   padding: 0 0 10px 25px;
   margin-top: -2px;
-  border-left: 2px solid #8a49a8;
+  border-left: 2px solid #a849a0;
   position: relative;
 }
 
 .resume .resume-item .resume-title {
   line-height: 18px;
   font-size: 0.9em;
-  background: #5234795d;
+  background: #3e34795d;
   padding: 8px 15px;
   display: inline-block;
   font-weight: 600;
@@ -690,8 +688,8 @@ button:focus {
 }
 
 .like-btn {
-  background-color: #934cce5e !important;
-  border-color: #934cce5e !important;
+  background-color: #f36ad7 !important;
+  border-color: #f36ad7 !important;
   padding: 0.25rem 0.98rem !important;
   border-radius: 5px !important;
   line-height: 1.4 !important;
@@ -700,8 +698,8 @@ button:focus {
 
 .like-btn:hover {
   transform: translateY(-2px) !important;
-  background-color: #a24dd386 !important;
-  border-color: #a24dd386 !important;
+  background-color: #f36ad7 !important;
+  border-color: #f36ad7 !important;
 }
 
 .animate-like {
