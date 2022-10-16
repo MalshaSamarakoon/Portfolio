@@ -63,7 +63,7 @@ function Projects() {
               description="A web based CRUD application for an art gallery
               Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person.
               Java | Spring Boot | MySQL | XAMP Server"
-              ghLink=""
+              ghLink="https://github.com/MalshaSamarakoon/Art-Gallery.git"
             />
           </Col>
 
@@ -74,6 +74,8 @@ function Projects() {
               title="Mini Games for kids"
               description="A set of games developed for kids using image-processing techniques
               MatLab | Image Processing"
+              ghLink="https://github.com/MalshaSamarakoon/Games-Club---minigames.git"
+              
             />
           </Col>
 
@@ -84,7 +86,7 @@ function Projects() {
               title="Coffee Shop Management System"
               description="A web application that can manage all functions of a coffee shop, including ordering and billing
               JavaFX | MySQL | XAMP Server"
-              ghLink=""
+              ghLink="https://github.com/MalshaSamarakoon/Market_coffee.git"
             />
           </Col>
         </Row>
