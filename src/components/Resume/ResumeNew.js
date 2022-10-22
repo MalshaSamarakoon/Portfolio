@@ -10,6 +10,8 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
  const resumeLink =
    "https://raw.githubusercontent.com/MalshaSamarakoon/Portfolio/master/src/Assets/resume_S.M.M.C.Samarakoon.pdf";
 
+
+   
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
 

@@ -1,10 +1,10 @@
 .img-fluid{
-  width: 300px;
-    height: 300px;
+  width: 500px;
+    height: 1000px;
   border-Radius: 360px;
   margin-Left: 80px;
   border-Width: 30px;
-  border-Color: rgba(235, 130, 219, 0.911);
+  border-Color: #30CED8;
 }
 
 html {
@@ -20,7 +20,7 @@ html {
     rgba(12, 10, 22, 0.863)
   );
 
-  --imp-text-color: #fa5cabef;
+  --imp-text-color: #30CED8;
 }
 
 .purple {
@@ -106,7 +106,7 @@ button:focus {
 
 .navbar-toggler span {
   display: block !important;
-  background-color: #be50f4 !important;
+  background-color: #f450de !important;
   height: 4px !important;
   width: 27px !important;
   margin-top: 5px !important;
@@ -269,7 +269,7 @@ button:focus {
 }
 
 .main-name {
-  color: #fa5cabef;
+  color: #30CED8;
   font-size: 100px;
   margin-left: 120px;
 }
@@ -361,7 +361,7 @@ button:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: #fa5cabef;
+  background: #f10279ef;
   transition: 0.5s;
   transform: scale(0.9);
   z-index: -1;
@@ -372,8 +372,7 @@ button:focus {
 }
 
 .home-social-icons:hover {
-  color: #87209e;
-  box-shadow: 0 0 5px #87209e;
+  color: #6f084e;
 }
 
 .social-icons {
@@ -390,7 +389,7 @@ button:focus {
 /* Footer */
 /* --------- */
 .footer {
-  background-color: rgb(10, 4, 22);
+  background-color: rgb(0, 0, 0);
   bottom: 0 !important;
   padding-top: 10px !important;
   padding-bottom: 8px !important ;
