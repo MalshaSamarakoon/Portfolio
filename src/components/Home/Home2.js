@@ -24,10 +24,9 @@ function Home2() {
               <br />I am fluent in classics like Java, PHP and Javascript.
               <br />
               <br />
-              Another area of my interest is learning about areas related to deep learning and computer vision              <br />
+              Another area of my interest is learning about areas related to deep learning and computer vision <br />
               <br />
-              As well I like to apply my passion for developing products
-              with and Modern Javascript Library and Frameworks &nbsp; like React.js
+              As well I like to apply my passion for developing products with and Modern Libraries and Frameworks &nbsp; like React.js adn Laravel
             </p>
          
         </Row>
