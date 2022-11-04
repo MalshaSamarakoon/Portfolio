@@ -19,14 +19,12 @@ function Home2() {
               Introducing<span className="purple"> MYSELF </span> 
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something
+            I am a Computer Science undergraduate and seeking an internship. 
               <br />
-              <br />I am fluent in classics like C++, Javascript and Python.
+              <br />I am fluent in classics like Java, Javascript and React JS.
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-Web Technologies and Products and also in areas related to{" "}Deep Learning and Natural Launguage Processing.
+              My field of Interest's are building new Web Technologies and Products as well, in areas related to Deep Learning and Computer Vision
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
