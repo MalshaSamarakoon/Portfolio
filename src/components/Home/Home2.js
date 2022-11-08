@@ -19,14 +19,17 @@ function Home2() {
               Introducing<span className="purple"> MYSELF </span> 
             </h1>
             <p className="home-about-body">
-            I am a Computer Science undergraduate who is seeking for an internship. 
-              <br />
-              <br />I am fluent in classics like Java, PHP and Javascript.
+            I am a  Computer Science undergraduate, looking for an internship to start my career journey.
               <br />
               <br />
-              Another area of my interest is learning about areas related to deep learning and computer vision <br />
+              I am fluent in classics like Java, PHP, and JavaScript.
               <br />
-              As well I like to apply my passion for developing products with and Modern Libraries and Frameworks &nbsp; like React.js adn Laravel
+              <br />
+              I like to apply my passion for developing products with modern libraries and frameworks like React JS and Laravel.
+              <br />
+              <br />
+              Another area of my interest is trying new technologies related to deep learning and computer vision
+              <br />
             </p>
          
         </Row>
